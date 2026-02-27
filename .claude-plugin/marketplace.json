@@ -1,0 +1,31 @@
+{
+  "name": "lexsocket",
+  "owner": {
+    "name": "LexSocket.ai",
+    "email": "support@lexsocket.ai"
+  },
+  "metadata": {
+    "description": "Official LexSocket.ai plugins for European public procurement and EU legislation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tenders",
+      "source": {
+        "source": "github",
+        "repo": "lexsocket/tenders"
+      },
+      "description": "Search, analyze, and monitor European public tenders (TED + 18 national sources) and EU legislation — directly from your AI assistant.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LexSocket.ai",
+        "email": "support@lexsocket.ai"
+      },
+      "homepage": "https://lexsocket.ai",
+      "repository": "https://github.com/lexsocket/tenders",
+      "license": "Proprietary",
+      "keywords": ["procurement", "tenders", "TED", "EUR-Lex", "EU", "public-contracts", "MCP"],
+      "category": "data"
+    }
+  ]
+}
