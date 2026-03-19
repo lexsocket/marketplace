@@ -6,7 +6,7 @@ Official plugin marketplace for [LexSocket.ai](https://lexsocket.ai) — Europea
 
 | Plugin | Description |
 |--------|-------------|
-| **tenders** | Search, analyze, and monitor European public tenders (TED + 18 national sources) and EU legislation |
+| **tenders** | Search, analyze, and monitor European public tenders (TED + 18 national sources) |
 
 ## Installation
 
@@ -42,11 +42,10 @@ Find open IT tenders in France above 100,000 EUR
 
 ## What you get
 
-The **tenders** plugin connects Claude Code to three MCP data sources:
+The **tenders** plugin connects Claude Code to a unified MCP server with two data sources:
 
 - **TED** — Above-threshold EU/EEA tenders from Tenders Electronic Daily
 - **National Tenders** — Below-threshold tenders from 18 countries (FR, GB, DE, ES, IT, NL, IE, PT, DK, PL, AT, CH, BE, NO, CZ, HU, RO, HR)
-- **EUR-Lex** — EU directives, regulations, and case law (EN, FR, DE)
 
 ## Support
 
